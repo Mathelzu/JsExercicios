@@ -8,7 +8,8 @@
 const listasDeDestino = new Array(
     `Salvador`,
     `São Paulo`,
-    `Rio De Janeiro`
+    `Rio De Janeiro`,
+    `Cuiabá`
 );
 listasDeDestino.push(`Curitiba`)
 console.log("Destinos Possíveis:")
